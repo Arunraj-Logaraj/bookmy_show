@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bookmy_show/static/css/main.fe034c5f.css",
+    "main.css": "/bookmy_show/static/css/main.dd20a2d8.css",
     "main.js": "/bookmy_show/static/js/main.3241e644.js",
     "static/js/787.bb3f4c15.chunk.js": "/bookmy_show/static/js/787.bb3f4c15.chunk.js",
     "static/media/et00340798-vcpvfjpvgq-portrait.png": "/bookmy_show/static/media/et00340798-vcpvfjpvgq-portrait.5f26e5df170df8c9bd49.png",
@@ -15,12 +15,12 @@
     "static/media/christopher-vbhjryzkqa-portrait.png": "/bookmy_show/static/media/christopher-vbhjryzkqa-portrait.c46ae95abc780a444a86.png",
     "static/media/logo.svg": "/bookmy_show/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bookmy_show/index.html",
-    "main.fe034c5f.css.map": "/bookmy_show/static/css/main.fe034c5f.css.map",
+    "main.dd20a2d8.css.map": "/bookmy_show/static/css/main.dd20a2d8.css.map",
     "main.3241e644.js.map": "/bookmy_show/static/js/main.3241e644.js.map",
     "787.bb3f4c15.chunk.js.map": "/bookmy_show/static/js/787.bb3f4c15.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe034c5f.css",
+    "static/css/main.dd20a2d8.css",
     "static/js/main.3241e644.js"
   ]
 }
