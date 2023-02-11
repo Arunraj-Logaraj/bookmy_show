@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ArunrajLogaraj/bookmy_show/static/css/main.fe034c5f.css",
-    "main.js": "/ArunrajLogaraj/bookmy_show/static/js/main.820e0dcb.js",
-    "static/js/787.bb3f4c15.chunk.js": "/ArunrajLogaraj/bookmy_show/static/js/787.bb3f4c15.chunk.js",
-    "static/media/et00340798-vcpvfjpvgq-portrait.png": "/ArunrajLogaraj/bookmy_show/static/media/et00340798-vcpvfjpvgq-portrait.5f26e5df170df8c9bd49.png",
-    "static/media/et00332034-etzluwkpzk-portrait.png": "/ArunrajLogaraj/bookmy_show/static/media/et00332034-etzluwkpzk-portrait.b0ecf64aec8986aae542.png",
-    "static/media/pathaan-hasmqjqyvj-portrait.png": "/ArunrajLogaraj/bookmy_show/static/media/pathaan-hasmqjqyvj-portrait.35512c98a2f988890024.png",
-    "static/media/romancham-tphjsubqqb-portrait.png": "/ArunrajLogaraj/bookmy_show/static/media/romancham-tphjsubqqb-portrait.65ff9dd52a59902c183d.png",
-    "static/media/amigos-wanxhharkb-portrait.png": "/ArunrajLogaraj/bookmy_show/static/media/amigos-wanxhharkb-portrait.56b190c263b6667c3f68.png",
-    "static/media/michael-sgwzqgykzg-portrait.png": "/ArunrajLogaraj/bookmy_show/static/media/michael-sgwzqgykzg-portrait.e429952424645905e8e0.png",
-    "static/media/et00349087-zvdsuwjlhl-portrait.png": "/ArunrajLogaraj/bookmy_show/static/media/et00349087-zvdsuwjlhl-portrait.6fff5a0408df85e8029d.png",
-    "static/media/et00350219-jbtwqwjehd-portrait.png": "/ArunrajLogaraj/bookmy_show/static/media/et00350219-jbtwqwjehd-portrait.5b98e7281facc6fa412d.png",
-    "static/media/et00351144-webtucyech-portrait.png": "/ArunrajLogaraj/bookmy_show/static/media/et00351144-webtucyech-portrait.52c889577d1fedd8af98.png",
-    "static/media/christopher-vbhjryzkqa-portrait.png": "/ArunrajLogaraj/bookmy_show/static/media/christopher-vbhjryzkqa-portrait.c46ae95abc780a444a86.png",
-    "static/media/logo.svg": "/ArunrajLogaraj/bookmy_show/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ArunrajLogaraj/bookmy_show/index.html",
-    "main.fe034c5f.css.map": "/ArunrajLogaraj/bookmy_show/static/css/main.fe034c5f.css.map",
-    "main.820e0dcb.js.map": "/ArunrajLogaraj/bookmy_show/static/js/main.820e0dcb.js.map",
-    "787.bb3f4c15.chunk.js.map": "/ArunrajLogaraj/bookmy_show/static/js/787.bb3f4c15.chunk.js.map"
+    "main.css": "/bookmy_show/static/css/main.fe034c5f.css",
+    "main.js": "/bookmy_show/static/js/main.3241e644.js",
+    "static/js/787.bb3f4c15.chunk.js": "/bookmy_show/static/js/787.bb3f4c15.chunk.js",
+    "static/media/et00340798-vcpvfjpvgq-portrait.png": "/bookmy_show/static/media/et00340798-vcpvfjpvgq-portrait.5f26e5df170df8c9bd49.png",
+    "static/media/et00332034-etzluwkpzk-portrait.png": "/bookmy_show/static/media/et00332034-etzluwkpzk-portrait.b0ecf64aec8986aae542.png",
+    "static/media/pathaan-hasmqjqyvj-portrait.png": "/bookmy_show/static/media/pathaan-hasmqjqyvj-portrait.35512c98a2f988890024.png",
+    "static/media/romancham-tphjsubqqb-portrait.png": "/bookmy_show/static/media/romancham-tphjsubqqb-portrait.65ff9dd52a59902c183d.png",
+    "static/media/amigos-wanxhharkb-portrait.png": "/bookmy_show/static/media/amigos-wanxhharkb-portrait.56b190c263b6667c3f68.png",
+    "static/media/michael-sgwzqgykzg-portrait.png": "/bookmy_show/static/media/michael-sgwzqgykzg-portrait.e429952424645905e8e0.png",
+    "static/media/et00349087-zvdsuwjlhl-portrait.png": "/bookmy_show/static/media/et00349087-zvdsuwjlhl-portrait.6fff5a0408df85e8029d.png",
+    "static/media/et00350219-jbtwqwjehd-portrait.png": "/bookmy_show/static/media/et00350219-jbtwqwjehd-portrait.5b98e7281facc6fa412d.png",
+    "static/media/et00351144-webtucyech-portrait.png": "/bookmy_show/static/media/et00351144-webtucyech-portrait.52c889577d1fedd8af98.png",
+    "static/media/christopher-vbhjryzkqa-portrait.png": "/bookmy_show/static/media/christopher-vbhjryzkqa-portrait.c46ae95abc780a444a86.png",
+    "static/media/logo.svg": "/bookmy_show/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bookmy_show/index.html",
+    "main.fe034c5f.css.map": "/bookmy_show/static/css/main.fe034c5f.css.map",
+    "main.3241e644.js.map": "/bookmy_show/static/js/main.3241e644.js.map",
+    "787.bb3f4c15.chunk.js.map": "/bookmy_show/static/js/787.bb3f4c15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe034c5f.css",
-    "static/js/main.820e0dcb.js"
+    "static/js/main.3241e644.js"
   ]
 }
